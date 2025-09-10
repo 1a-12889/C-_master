@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc D:\c++_master\lib\libutils.a CMakeFiles/utils.dir/add.cpp.obj
+D:\mingw64\bin\ranlib.exe D:\c++_master\lib\libutils.a

@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/c++_master/build/cmake_install.cmake",
+		"D:/c++_master/build/src/utils/cmake_install.cmake",
+		"D:/c++_master/build/src/lessons/cmake_install.cmake",
+		"D:/c++_master/build/src/lessons/lesson01_base/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

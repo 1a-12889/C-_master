@@ -1,0 +1,23 @@
+=== C++ Master 项目编译指令 ===
+
+【完整编译流程】
+cd D:\c++_master
+mkdir build
+cd build
+cmake -G "MinGW Makefiles" ..
+mingw32-make -j4
+
+【快速编译】
+cd build && mingw32-make
+
+【运行程序】
+cd bin\lessons
+lesson01.exe
+
+【清理构建】
+rmdir /s /q build
+rmdir /s /q bin
+rmdir /s /q lib
+
+【设置UTF-8编码】
+chcp 65001
